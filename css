@@ -1,0 +1,17 @@
+devops-practice/
+│
+├── README.md
+├── .gitignore
+├── scripts/
+│   └── hello.sh
+├── docker/
+│   └── Dockerfile
+├── terraform/
+│   └── main.tf
+├── ansible/
+│   └── playbook.yml
+├── kubernetes/
+│   └── deployment.yaml
+└── .github/
+    └── workflows/
+        └── ci.yml
